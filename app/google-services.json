@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "412006402287",
+    "firebase_url": "https://empresaxyz-a9499-default-rtdb.firebaseio.com",
+    "project_id": "empresaxyz-a9499",
+    "storage_bucket": "empresaxyz-a9499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412006402287:android:6273acfe2551710cfa731a",
+        "android_client_info": {
+          "package_name": "com.example.appempresaxyz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD774RxLFbTt7SU9cGahiU8dQWmCMGx1AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
